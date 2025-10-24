@@ -1,4 +1,22 @@
+University: ITMO University
 
+Faculty: FICT
+
+Course: Vibe Coding: AI-боты для бизнеса
+
+Year: 2025/2026
+
+Group: U4225
+
+Author: KOROBKOVA EKATERINA ANDREEVNA
+
+Lab: Lab1
+
+Date of create: 22.10.2025
+
+Date of finished: 24.10.2025
+
+Обычная лабораторная работа
 
 **1. Описание задачи**
 
@@ -140,7 +158,17 @@ python-dotenv: Безопасное хранение конфиденциаль�
 
 **4. Скриншоты и видео**
 
+**Скрины**
 
+![alt text](screenshots/1.png)
+
+![alt text](screenshots/2.png)
+
+![alt text](screenshots/3.png)
+
+![alt text](screenshots/3.png)
+
+**Видео**
 
 
 
