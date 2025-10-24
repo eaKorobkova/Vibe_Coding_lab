@@ -170,6 +170,7 @@ python-dotenv: Безопасное хранение конфиденциаль�
 
 **Видео**
 
+https://rutube.ru/video/private/be56d5ddb994191dd553a0043754c0f5/?p=j0OhLKPHN40sS4lT4CV9dA
 
 
 
