@@ -93,7 +93,11 @@ https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=7c90fc1
 
 11. Ключевые фрагменты кода
 
+Конфигурация NewsAPI
+
 ![alt text](screenshots/2.png)
+
+Получение новостей
 
 ![alt text](screenshots/3.png)
 
